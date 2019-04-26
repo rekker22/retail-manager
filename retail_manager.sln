@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timcoretailmanager", "timcoretailmanager\timcoretailmanager.csproj", "{A2D5C2CB-CD21-4D8E-894F-770E934A41BB}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TRMData", "TRMData\TRMData.sqlproj", "{528B793C-5CB5-4DB4-AACD-70ABB9D279EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{A2D5C2CB-CD21-4D8E-894F-770E934A41BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2D5C2CB-CD21-4D8E-894F-770E934A41BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2D5C2CB-CD21-4D8E-894F-770E934A41BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528B793C-5CB5-4DB4-AACD-70ABB9D279EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528B793C-5CB5-4DB4-AACD-70ABB9D279EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528B793C-5CB5-4DB4-AACD-70ABB9D279EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{528B793C-5CB5-4DB4-AACD-70ABB9D279EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528B793C-5CB5-4DB4-AACD-70ABB9D279EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528B793C-5CB5-4DB4-AACD-70ABB9D279EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
