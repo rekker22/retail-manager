@@ -14,7 +14,7 @@ namespace timcoretailmanager.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            string userid = RequestContext.Principal.Identity.GetUserId();
+            //string userid = RequestContext.Principal.Identity.GetUserId();
             return new string[] { "value1", "value2" };
         }
 

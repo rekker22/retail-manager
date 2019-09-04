@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timcoretailmanager", "timcoretailmanager\timcoretailmanager.csproj", "{A2D5C2CB-CD21-4D8E-894F-770E934A41BB}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TRMData", "TRMData\TRMData.sqlproj", "{528B793C-5CB5-4DB4-AACD-70ABB9D279EE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRMDesktopUI", "TRMDesktopUI\TRMDesktopUI.csproj", "{4D5DA64B-BE3C-4387-8C6A-14E6B4566036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timcoretailmanager.Library", "timcoretailmanager.Library\timcoretailmanager.Library.csproj", "{FB7266FF-C457-4C0F-871E-4665E1C7D44A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{4D5DA64B-BE3C-4387-8C6A-14E6B4566036}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D5DA64B-BE3C-4387-8C6A-14E6B4566036}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D5DA64B-BE3C-4387-8C6A-14E6B4566036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7266FF-C457-4C0F-871E-4665E1C7D44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7266FF-C457-4C0F-871E-4665E1C7D44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7266FF-C457-4C0F-871E-4665E1C7D44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7266FF-C457-4C0F-871E-4665E1C7D44A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
